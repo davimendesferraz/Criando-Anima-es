@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(1080, 720);
+    createCanvas(1920, 1080);
     background("purple");
     cor = color(random(0, 255), random(0, 255), random(0, 255));
     posicaoHorizontal = 200;
